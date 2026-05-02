@@ -1,4 +1,4 @@
-                                            ** **Two Pointers Pattern** **
+## Two Pointers ##
 
 As the name suggests, there are two pointers to navigate through the array(ideally sorted), Linked Lists.
 
